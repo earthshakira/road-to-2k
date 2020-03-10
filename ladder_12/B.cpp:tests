@@ -1,0 +1,25 @@
+[
+	{
+		"correct_answers":
+		[
+			"Yes\nNo\nNo\nNo"
+		],
+		"test": "4\n5\nsouse\nhouhe\n3\ncat\ndog\n2\naa\naz\n3\nabc\nbca\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Yes"
+		],
+		"test": "1\n4\nasdf\nasdf\n"
+	},
+	{
+		"test": "1\n4\nasfd\nasdf\n"
+	},
+	{
+		"test": "1\n4\naaaa\ncccc\n"
+	},
+	{
+		"test": "1\n2\naa\nxx\n"
+	}
+]

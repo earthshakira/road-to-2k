@@ -1,0 +1,17 @@
+[
+	{
+		"test": "3\naabce\nace\nabacaba\naax\nty\nyyt\n"
+	},
+	{
+		"test": "4\nasdfasdf\nasdf\nzxcvzxcvasdf\naa\naabbaa\naaa\naabbaabb\nabab\n"
+	},
+	{
+		"test": "1\na\na\n"
+	},
+	{
+		"test": "1\nab\nac\n\n"
+	},
+	{
+		"test": "1\na\naaaaa\n"
+	}
+]

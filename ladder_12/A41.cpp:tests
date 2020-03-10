@@ -1,0 +1,11 @@
+[
+	{
+		"test": "code\nedoc\n"
+	},
+	{
+		"test": "abb\naba\n"
+	},
+	{
+		"test": "code\ncode\n"
+	}
+]

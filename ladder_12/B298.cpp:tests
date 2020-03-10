@@ -1,0 +1,11 @@
+[
+	{
+		"test": "5 0 0 1 1\nSESNW\n"
+	},
+	{
+		"test": "10 5 3 3 6\nNENSWESNEE\n"
+	},
+	{
+		"test": "19 -172106364 -468680119 -172106365 -468680119\nSSEEESSSESESWSEESSS\n"
+	}
+]
