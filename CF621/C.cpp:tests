@@ -1,0 +1,26 @@
+[
+	{
+		"test": "aaabb\n"
+	},
+	{
+		"test": "usaco\n"
+	},
+	{
+		"test": "lloolll\n"
+	},
+	{
+		"test": "lllll\n"
+	},
+	{
+		"test": "a\n"
+	},
+	{
+		"test": "ab\n"
+	},
+	{
+		"test": "aa\n"
+	},
+	{
+		"test": "ababaca\n\n"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"test": "8\nbacabcab\n"
+	},
+	{
+		"test": "4\nabcd\n"
+	},
+	{
+		"test": "6\nbbbbba\n"
+	},
+	{
+		"test": "7\nbbbabbb\n"
+	},
+	{
+		"test": "5\naccddbb\n"
+	}
+]
